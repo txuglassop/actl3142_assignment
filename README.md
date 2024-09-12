@@ -7,4 +7,4 @@ Part 2 contains the creation, validation, and selection of machine learning mode
 
 The final reports in PDF format are available for both parts, as well as the entirety of the code that was used throughout the project.
 
-Received full marks for boths parts.
+Received full marks for both parts.
